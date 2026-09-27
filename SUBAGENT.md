@@ -1,7 +1,7 @@
 ---
 name: Semantic dedup
 description: Compares text snippets for near-duplicate meaning (read-only).
-preset_id: deepseek:v4-flash
+preset_id: deepseek-flash
 tools: read_file, grep_workspace, glob_files
 ---
 
